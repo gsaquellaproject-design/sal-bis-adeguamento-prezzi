@@ -1,0 +1,3 @@
+id_riga,descrizione_lavoro,quantita,unita_misura,prezzo_originale,codice_prezzario,anno_prezzario
+1,Scavo a sezione obbligata,100,m3,25.00,BAS-001,2023
+2,Calcestruzzo Rck 30,50,m3,120.00,BAS-150,2023
