@@ -1,5 +1,11 @@
 # SAL Bis Adeguamento Prezzi
-
+# Strumento open-source per l'automazione del calcolo dei SAL bis
+di adeguamento prezzi negli appalti pubblici italiani, ai sensi
+della Legge di Bilancio 2026 (L. 199/2025) e del D.L. 50/2022
+(Decreto Aiuti). Il tool automatizza l'applicazione dei prezzari
+regionali aggiornati alle lavorazioni annotate nel libretto delle
+misure, riducendo drasticamente i tempi di calcolo manuali per
+RUP, direttori lavori e imprese appaltatrici.
 ## 🇮🇹 Descrizione
 
 Tool open source per supportare il calcolo dei SAL bis di adeguamento
